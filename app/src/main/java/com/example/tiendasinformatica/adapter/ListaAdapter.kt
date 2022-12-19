@@ -3,6 +3,7 @@ package com.example.listacompra.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.tiendasinformatica.BBDD.Listatiendas
 import com.example.tiendasinformatica.R
 
 
